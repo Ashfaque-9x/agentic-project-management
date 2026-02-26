@@ -16,6 +16,6 @@ Project Manager, Team Lead, Program/Delivery Manager.
 
 ## Formal Conversation Samples 
 **Agent:** “Milestone at risk due to dependency delay. Initiate replan?” → User approves → Agent updates plan.\
-**User:** “Summarize sprint and highlight risks.” → Agent returns summary + recommendations.\
+**User:** “Summarize sprint and highlight risks.” → Agent returns summary + recommendations.
 
 
